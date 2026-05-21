@@ -1,0 +1,9 @@
+# Ignorar configuraciones sensibles y archivos generados
+/db.properties.example
+/db.properties
+*.class
+*.log
+/bin/
+/lib/
+*.jar
+.DS_Store

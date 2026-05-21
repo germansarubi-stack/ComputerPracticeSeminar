@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        ".",
+        "ARGUS GUARDIAN"
+    ],
+    "java.project.referencedLibraries": [
+        "c:\\Users\\Usuario\\Desktop\\siglo21\\carrera\\6to CUTRIMESTRE\\seminario de practica informatica EFIP1\\mysql-connector-j-9.5.0\\mysql-connector-j-9.5.0.jar"
+    ]
+}
